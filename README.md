@@ -9,3 +9,5 @@ points will be lost and the turn goes to another player. That's why you need the
 
 ###### Enjoy!
 And please respond in case you have some ideas, questions or comments.
+
+I also deployed the game on netify so you may play it without downloading anything https://soft-jalebi-f433c1.netlify.app
